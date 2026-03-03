@@ -9,7 +9,7 @@ Full-stack developer focused on backend systems, APIs, and scalable web applicat
 
 ## ⚠️ Note
 
-The full source code for featured projects is private to protect client work and proprietary business logic. This repository serves as a technical overview and project showcase.
+The source code is private due to client information, personal data, and proprietary business logic. This repository highlights the technical architecture and project overview.
 
 ---
 
