@@ -2,7 +2,7 @@
 
 Full-stack developer focused on backend systems, APIs, and scalable web applications. I build structured, maintainable systems designed for real-world business use.
 
-🌐 Live Portfolio: [https://pabuu-portfolio.vercel.app/](https://pabuu-portfolio.vercel.app/)
+🌐 Live Portfolio: https://gianreyes.vercel.app/
 📍 Philippines
 
 ---
